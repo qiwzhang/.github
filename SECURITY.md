@@ -1,7 +1,15 @@
-Please use https://g.co/vulnz to report security vulnerabilities.
+# Security Policy
 
-We use https://g.co/vulnz for our intake and triage. For valid issues we will do coordination and disclosure here on
-GitHub (including using a GitHub Security Advisory when necessary).
+## Follow envoy security policy
 
-The Google Security Team will process your report within a day, and respond within a week (although it will depend on the severity of your report).
+This code is mainly used by [envoy](https://github.com/envoyproxy/envoy). Please follow envoy security [policy](https://github.com/envoyproxy/envoy/security/policy).
 
+
+## Supported Versions
+
+This repo is small, there is not versioned releases. Please always use top of the tree.  If there is any bugs or security fixes, they will be fixed in the master branch.
+
+
+## Reporting a Vulnerability
+
+Please report any vulnerability to envoy according to its security [policy](https://github.com/envoyproxy/envoy/security/policy).
